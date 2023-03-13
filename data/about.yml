@@ -17,18 +17,19 @@ en:
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
         libero, perspiciatis eos provident laborum eum dignissimos.
 fr:
-  title: <span>About</span>
+  title: <span>About China Daily's Red Letter Projects</span>
   backgroundTitle: About
   portText: Magna dolor nisi reprehenderit irure aliqua
   items:
     - icon: fa-award
-      title: Lorem ipsum dolor sit amet
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
+      title: Awards
+      content: CDHK has recieved prestigious awards from the World Press Photo awards,
+        ...., ... and ... recognising its innovative coverage of all of Asia.
     - icon: fa-compass
-      title: We are on your side.
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
+      title: Commited to telling relevant stories
+      content: "From shipping to the impacts of COVID on the future development of
+        Asia, CD Red Letter projects are dedicated to showing the Asian
+        perspective on world events. "
     - icon: fa-leaf
       title: We care.
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
