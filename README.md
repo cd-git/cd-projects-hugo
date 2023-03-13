@@ -1,29 +1,9 @@
+# PROJECTS ASIAWEEKLY GITHUB REPO
 
-# Deploy Hugo + Netlify CMS in minutes!
-
-
-[![Hugo theme Remix, screenshot of the Homepage](static/img/screenshot.jpg)](https://remix.roneo.app)
-
-- [Demo](https://remix.roneo.app)
-- Source code: [Gitlab](https://gitlab.com/Roneo/hugo-remix-one-click-netlify-cms.git) | [Github](https://github.com/RoneoOrg/hugo-remix-one-click-netlify-cms)
-- Deployment:
-
-<div align="center">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RoneoOrg/hugo-remix-one-click-netlify-cms&stack=cms)
-
-</div>
 
 ## Features
 
-- [Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/RoneoOrg/hugo-remix-one-click-netlify-cms&stack=cms) in minutes
-- Hassle-free edition with [Netlify CMS](https://www.netlifycms.org/)
-- Dark and light themes
-- Fully responsive
-- Beginner-friendly: no submodule, no npm required
-- Multilingual support
 - Easy customization with [CSS variables](https://github.com/RoneoOrg/hugo-remix-one-click-netlify-cms/blob/main/assets/normalize.scss)
-- Contact form
 - [Font Awesome 6](https://fontawesome.com/search?m=free)
 - Excellent [results on Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A//remix.roneo.app/&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo):
 
